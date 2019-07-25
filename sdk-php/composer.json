@@ -1,0 +1,17 @@
+{
+    "name": "yeepay/sdk-php-molinhao",
+    "authors": [
+        {
+            "name": "John Smith",
+            "email": "john@example.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "App\\YeepayV2\\": "src"
+        }
+    },
+
+    "require": {}
+}
