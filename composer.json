@@ -1,5 +1,5 @@
 {
-    "name": "yeepay/sdk-php-molinhao",
+    "name": "zsahYeepay/sdk-php-molinhao",
     "authors": [
         {
             "name": "John Smith",
@@ -9,7 +9,7 @@
 
     "autoload": {
         "psr-4": {
-            "App\\YeepayV2\\": "src"
+            "App\\zsahYeepayV2\\": "src"
         }
     },
 

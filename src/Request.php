@@ -1,6 +1,6 @@
 <?php
 
-namespace App\YeepayV2;
+namespace App\zsahYeepayV2;
 
 use YopClient3;
 use YopRequest;
